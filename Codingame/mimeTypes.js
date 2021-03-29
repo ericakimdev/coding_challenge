@@ -47,9 +47,3 @@ for (let i = 0; i < Q; i++) {
     }
 }
 
-// Write an answer using console.log()
-// To debug: console.error('Debug messages...');
-
-
-// For each of the Q filenames, display on a line the corresponding MIME type. If there is no corresponding type, then display UNKNOWN.
-//console.log('UNKNOWN');

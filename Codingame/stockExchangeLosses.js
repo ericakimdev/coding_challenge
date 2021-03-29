@@ -5,8 +5,6 @@
 
 const n = parseInt(readline());
 var inputs = readline().split(' ');
-// const n = 6;
-// var inputs = ['3', '2', '4', '2', '1', '5'];
 
 var maxLoss = 0;
 var currVal = inputs[0] || 0;
